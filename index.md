@@ -1,5 +1,4 @@
 ---
-title: "Namespotting: username toxicity and actual toxic behavior on Reddit"
 layout: page
 toc: true
 output:
