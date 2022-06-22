@@ -17,6 +17,6 @@ Documentation and data for our paper "Namespotting: username toxicity and actual
 - The pdf file with the technical analysis is available [here](https://rfl-urbaniak.github.io/namespotting/namespottingTechnical.pdf).
 
 
-
+![Empirical overview](images/overviewPlot.pdf)
 
 
