@@ -22,8 +22,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Probabilistic coherence measures '
-description:	       '</br> with Bayesian networks and R </br>'
+title:		           'Namespotting: username toxicity and actual toxic behavior on Reddit'
 author:              'Rafal Urbaniak'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
